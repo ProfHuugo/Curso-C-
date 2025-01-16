@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\FileStream( e StreamReader)\obj\Debug\net9.0\FileStream( e StreamReader).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\FileStream( e StreamReader)\obj\Debug\net9.0\FileStream( e StreamReader).AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\FileStream( e StreamReader)\obj\Debug\net9.0\FileStream( e StreamReader).AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\FileStream( e StreamReader)\obj\Debug\net9.0\FileStream( e StreamReader).csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\FileStream( e StreamReader)\bin\Debug\net9.0\FileStream( e StreamReader).exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\FileStream( e StreamReader)\bin\Debug\net9.0\FileStream( e StreamReader).deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\FileStream( e StreamReader)\bin\Debug\net9.0\FileStream( e StreamReader).runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\FileStream( e StreamReader)\bin\Debug\net9.0\FileStream( e StreamReader).dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\FileStream( e StreamReader)\bin\Debug\net9.0\FileStream( e StreamReader).pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\FileStream( e StreamReader)\obj\Debug\net9.0\FileStream( e StreamReader).dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\FileStream( e StreamReader)\obj\Debug\net9.0\refint\FileStream( e StreamReader).dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\FileStream( e StreamReader)\obj\Debug\net9.0\FileStream( e StreamReader).pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\FileStream( e StreamReader)\obj\Debug\net9.0\FileStream( e StreamReader).genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\FileStream( e StreamReader)\obj\Debug\net9.0\ref\FileStream( e StreamReader).dll

@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Exer_Fixação\bin\Debug\net9.0\Exer_Fixação.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Exer_Fixação\bin\Debug\net9.0\Exer_Fixação.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Exer_Fixação\bin\Debug\net9.0\Exer_Fixação.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Exer_Fixação\bin\Debug\net9.0\Exer_Fixação.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Exer_Fixação\bin\Debug\net9.0\Exer_Fixação.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Exer_Fixação\obj\Debug\net9.0\Exer_Fixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Exer_Fixação\obj\Debug\net9.0\Exer_Fixação.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Exer_Fixação\obj\Debug\net9.0\Exer_Fixação.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Exer_Fixação\obj\Debug\net9.0\Exer_Fixação.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Exer_Fixação\obj\Debug\net9.0\Exer_Fixação.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Exer_Fixação\obj\Debug\net9.0\refint\Exer_Fixação.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Exer_Fixação\obj\Debug\net9.0\Exer_Fixação.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Exer_Fixação\obj\Debug\net9.0\Exer_Fixação.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Exer_Fixação\obj\Debug\net9.0\ref\Exer_Fixação.dll

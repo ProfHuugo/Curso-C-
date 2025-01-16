@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Herança vs Interface\obj\Debug\net9.0\Herança vs Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Herança vs Interface\obj\Debug\net9.0\Herança vs Interface.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Herança vs Interface\obj\Debug\net9.0\Herança vs Interface.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Herança vs Interface\obj\Debug\net9.0\Herança vs Interface.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Herança vs Interface\bin\Debug\net9.0\Herança vs Interface.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Herança vs Interface\bin\Debug\net9.0\Herança vs Interface.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Herança vs Interface\bin\Debug\net9.0\Herança vs Interface.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Herança vs Interface\bin\Debug\net9.0\Herança vs Interface.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Herança vs Interface\bin\Debug\net9.0\Herança vs Interface.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Herança vs Interface\obj\Debug\net9.0\Herança vs Interface.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Herança vs Interface\obj\Debug\net9.0\refint\Herança vs Interface.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Herança vs Interface\obj\Debug\net9.0\Herança vs Interface.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Herança vs Interface\obj\Debug\net9.0\Herança vs Interface.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Herança vs Interface\obj\Debug\net9.0\ref\Herança vs Interface.dll

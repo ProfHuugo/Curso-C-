@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Func\obj\Debug\net9.0\Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Func\obj\Debug\net9.0\Func.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Func\obj\Debug\net9.0\Func.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Func\obj\Debug\net9.0\Func.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Func\bin\Debug\net9.0\Func.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Func\bin\Debug\net9.0\Func.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Func\bin\Debug\net9.0\Func.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Func\bin\Debug\net9.0\Func.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Func\bin\Debug\net9.0\Func.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Func\obj\Debug\net9.0\Func.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Func\obj\Debug\net9.0\refint\Func.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Func\obj\Debug\net9.0\Func.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Func\obj\Debug\net9.0\Func.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Func\obj\Debug\net9.0\ref\Func.dll

@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Métodos_Abstratos\bin\Debug\net9.0\Métodos_Abstratos.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Métodos_Abstratos\bin\Debug\net9.0\Métodos_Abstratos.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Métodos_Abstratos\bin\Debug\net9.0\Métodos_Abstratos.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Métodos_Abstratos\bin\Debug\net9.0\Métodos_Abstratos.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Métodos_Abstratos\bin\Debug\net9.0\Métodos_Abstratos.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Métodos_Abstratos\obj\Debug\net9.0\Métodos_Abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Métodos_Abstratos\obj\Debug\net9.0\Métodos_Abstratos.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Métodos_Abstratos\obj\Debug\net9.0\Métodos_Abstratos.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Métodos_Abstratos\obj\Debug\net9.0\Métodos_Abstratos.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Métodos_Abstratos\obj\Debug\net9.0\Métodos_Abstratos.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Métodos_Abstratos\obj\Debug\net9.0\refint\Métodos_Abstratos.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Métodos_Abstratos\obj\Debug\net9.0\Métodos_Abstratos.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Métodos_Abstratos\obj\Debug\net9.0\Métodos_Abstratos.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Métodos_Abstratos\obj\Debug\net9.0\ref\Métodos_Abstratos.dll

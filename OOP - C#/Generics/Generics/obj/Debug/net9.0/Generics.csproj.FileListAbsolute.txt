@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Generics\obj\Debug\net9.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Generics\obj\Debug\net9.0\Generics.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Generics\obj\Debug\net9.0\Generics.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Generics\obj\Debug\net9.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Generics\bin\Debug\net9.0\Generics.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Generics\bin\Debug\net9.0\Generics.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Generics\bin\Debug\net9.0\Generics.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Generics\bin\Debug\net9.0\Generics.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Generics\bin\Debug\net9.0\Generics.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Generics\obj\Debug\net9.0\Generics.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Generics\obj\Debug\net9.0\refint\Generics.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Generics\obj\Debug\net9.0\Generics.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Generics\obj\Debug\net9.0\Generics.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Generics\obj\Debug\net9.0\ref\Generics.dll

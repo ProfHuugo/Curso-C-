@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_2\obj\Debug\net8.0\Enumeração_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_2\obj\Debug\net8.0\Enumeração_2.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_2\obj\Debug\net8.0\Enumeração_2.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_2\obj\Debug\net8.0\Enumeração_2.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_2\bin\Debug\net8.0\Enumeração_2.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_2\bin\Debug\net8.0\Enumeração_2.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_2\bin\Debug\net8.0\Enumeração_2.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_2\bin\Debug\net8.0\Enumeração_2.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_2\bin\Debug\net8.0\Enumeração_2.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_2\obj\Debug\net8.0\Enumeração_2.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_2\obj\Debug\net8.0\refint\Enumeração_2.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_2\obj\Debug\net8.0\Enumeração_2.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_2\obj\Debug\net8.0\Enumeração_2.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_2\obj\Debug\net8.0\ref\Enumeração_2.dll

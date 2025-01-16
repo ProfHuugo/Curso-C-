@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Try-Catch\obj\Debug\net9.0\Try-Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Try-Catch\obj\Debug\net9.0\Try-Catch.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Try-Catch\obj\Debug\net9.0\Try-Catch.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Try-Catch\obj\Debug\net9.0\Try-Catch.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Try-Catch\bin\Debug\net9.0\Try-Catch.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Try-Catch\bin\Debug\net9.0\Try-Catch.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Try-Catch\bin\Debug\net9.0\Try-Catch.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Try-Catch\bin\Debug\net9.0\Try-Catch.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Try-Catch\bin\Debug\net9.0\Try-Catch.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Try-Catch\obj\Debug\net9.0\Try-Catch.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Try-Catch\obj\Debug\net9.0\refint\Try-Catch.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Try-Catch\obj\Debug\net9.0\Try-Catch.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Try-Catch\obj\Debug\net9.0\Try-Catch.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Try-Catch\obj\Debug\net9.0\ref\Try-Catch.dll

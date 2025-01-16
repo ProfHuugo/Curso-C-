@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FileStream( e StreamReader)/1.0.0": {
+        "runtime": {
+          "FileStream( e StreamReader).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileStream( e StreamReader)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

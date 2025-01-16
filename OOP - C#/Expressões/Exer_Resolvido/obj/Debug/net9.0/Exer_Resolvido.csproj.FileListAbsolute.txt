@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Exer_Resolvido\bin\Debug\net9.0\Exer_Resolvido.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Exer_Resolvido\bin\Debug\net9.0\Exer_Resolvido.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Exer_Resolvido\bin\Debug\net9.0\Exer_Resolvido.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Exer_Resolvido\bin\Debug\net9.0\Exer_Resolvido.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Exer_Resolvido\bin\Debug\net9.0\Exer_Resolvido.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Exer_Resolvido\obj\Debug\net9.0\Exer_Resolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Exer_Resolvido\obj\Debug\net9.0\Exer_Resolvido.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Exer_Resolvido\obj\Debug\net9.0\Exer_Resolvido.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Exer_Resolvido\obj\Debug\net9.0\Exer_Resolvido.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Exer_Resolvido\obj\Debug\net9.0\Exer_Resolvido.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Exer_Resolvido\obj\Debug\net9.0\refint\Exer_Resolvido.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Exer_Resolvido\obj\Debug\net9.0\Exer_Resolvido.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Exer_Resolvido\obj\Debug\net9.0\Exer_Resolvido.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Expressões\Exer_Resolvido\obj\Debug\net9.0\ref\Exer_Resolvido.dll

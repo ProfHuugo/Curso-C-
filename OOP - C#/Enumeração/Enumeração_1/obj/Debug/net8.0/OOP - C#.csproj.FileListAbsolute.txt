@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\bin\Debug\net8.0\OOP - C#.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\bin\Debug\net8.0\OOP - C#.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\bin\Debug\net8.0\OOP - C#.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\bin\Debug\net8.0\OOP - C#.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\bin\Debug\net8.0\OOP - C#.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\obj\Debug\net8.0\OOP - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\obj\Debug\net8.0\OOP - C#.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\obj\Debug\net8.0\OOP - C#.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\obj\Debug\net8.0\OOP - C#.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\obj\Debug\net8.0\OOP - C#.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\obj\Debug\net8.0\refint\OOP - C#.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\obj\Debug\net8.0\OOP - C#.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\obj\Debug\net8.0\OOP - C#.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\obj\Debug\net8.0\ref\OOP - C#.dll

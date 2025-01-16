@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Resolvido_Exer\bin\Debug\net9.0\Resolvido.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Resolvido_Exer\bin\Debug\net9.0\Resolvido.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Resolvido_Exer\bin\Debug\net9.0\Resolvido.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Resolvido_Exer\bin\Debug\net9.0\Resolvido.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Resolvido_Exer\bin\Debug\net9.0\Resolvido.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Resolvido_Exer\obj\Debug\net9.0\Resolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Resolvido_Exer\obj\Debug\net9.0\Resolvido.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Resolvido_Exer\obj\Debug\net9.0\Resolvido.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Resolvido_Exer\obj\Debug\net9.0\Resolvido.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Resolvido_Exer\obj\Debug\net9.0\Resolvido.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Resolvido_Exer\obj\Debug\net9.0\refint\Resolvido.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Resolvido_Exer\obj\Debug\net9.0\Resolvido.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Resolvido_Exer\obj\Debug\net9.0\Resolvido.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Resolvido_Exer\obj\Debug\net9.0\ref\Resolvido.dll

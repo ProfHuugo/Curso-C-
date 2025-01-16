@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Bloco Using\bin\Debug\net9.0\Bloco Using.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Bloco Using\bin\Debug\net9.0\Bloco Using.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Bloco Using\bin\Debug\net9.0\Bloco Using.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Bloco Using\bin\Debug\net9.0\Bloco Using.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Bloco Using\bin\Debug\net9.0\Bloco Using.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Bloco Using\obj\Debug\net9.0\Bloco Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Bloco Using\obj\Debug\net9.0\Bloco Using.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Bloco Using\obj\Debug\net9.0\Bloco Using.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Bloco Using\obj\Debug\net9.0\Bloco Using.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Bloco Using\obj\Debug\net9.0\Bloco Using.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Bloco Using\obj\Debug\net9.0\refint\Bloco Using.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Bloco Using\obj\Debug\net9.0\Bloco Using.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Bloco Using\obj\Debug\net9.0\Bloco Using.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\Bloco Using\obj\Debug\net9.0\ref\Bloco Using.dll

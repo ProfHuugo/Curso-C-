@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Sem_Interfaces\obj\Debug\net9.0\Sem_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Sem_Interfaces\obj\Debug\net9.0\Sem_Interfaces.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Sem_Interfaces\obj\Debug\net9.0\Sem_Interfaces.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Sem_Interfaces\obj\Debug\net9.0\Sem_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Sem_Interfaces\bin\Debug\net9.0\Sem_Interfaces.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Sem_Interfaces\bin\Debug\net9.0\Sem_Interfaces.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Sem_Interfaces\bin\Debug\net9.0\Sem_Interfaces.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Sem_Interfaces\bin\Debug\net9.0\Sem_Interfaces.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Sem_Interfaces\bin\Debug\net9.0\Sem_Interfaces.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Sem_Interfaces\obj\Debug\net9.0\Sem_Interfaces.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Sem_Interfaces\obj\Debug\net9.0\refint\Sem_Interfaces.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Sem_Interfaces\obj\Debug\net9.0\Sem_Interfaces.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Sem_Interfaces\obj\Debug\net9.0\Sem_Interfaces.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Interfaces\Sem_Interfaces\obj\Debug\net9.0\ref\Sem_Interfaces.dll

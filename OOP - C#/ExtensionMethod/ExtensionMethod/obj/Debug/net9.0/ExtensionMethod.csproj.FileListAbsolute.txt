@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\ExtensionMethod\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\ExtensionMethod\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\ExtensionMethod\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\ExtensionMethod\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\ExtensionMethod\ExtensionMethod\bin\Debug\net9.0\ExtensionMethod.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\ExtensionMethod\ExtensionMethod\bin\Debug\net9.0\ExtensionMethod.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\ExtensionMethod\ExtensionMethod\bin\Debug\net9.0\ExtensionMethod.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\ExtensionMethod\ExtensionMethod\bin\Debug\net9.0\ExtensionMethod.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\ExtensionMethod\ExtensionMethod\bin\Debug\net9.0\ExtensionMethod.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\ExtensionMethod\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\ExtensionMethod\ExtensionMethod\obj\Debug\net9.0\refint\ExtensionMethod.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\ExtensionMethod\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\ExtensionMethod\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\ExtensionMethod\ExtensionMethod\obj\Debug\net9.0\ref\ExtensionMethod.dll

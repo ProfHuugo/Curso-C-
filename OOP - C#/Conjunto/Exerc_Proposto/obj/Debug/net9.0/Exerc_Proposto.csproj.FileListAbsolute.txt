@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Exerc_Proposto\bin\Debug\net9.0\Exerc_Proposto.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Exerc_Proposto\bin\Debug\net9.0\Exerc_Proposto.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Exerc_Proposto\bin\Debug\net9.0\Exerc_Proposto.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Exerc_Proposto\bin\Debug\net9.0\Exerc_Proposto.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Exerc_Proposto\bin\Debug\net9.0\Exerc_Proposto.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Exerc_Proposto\obj\Debug\net9.0\Exerc_Proposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Exerc_Proposto\obj\Debug\net9.0\Exerc_Proposto.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Exerc_Proposto\obj\Debug\net9.0\Exerc_Proposto.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Exerc_Proposto\obj\Debug\net9.0\Exerc_Proposto.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Exerc_Proposto\obj\Debug\net9.0\Exerc_Proposto.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Exerc_Proposto\obj\Debug\net9.0\refint\Exerc_Proposto.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Exerc_Proposto\obj\Debug\net9.0\Exerc_Proposto.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Exerc_Proposto\obj\Debug\net9.0\Exerc_Proposto.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Conjunto\Exerc_Proposto\obj\Debug\net9.0\ref\Exerc_Proposto.dll

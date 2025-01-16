@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-Program",
+      "appliesTo": "Exer_Resolvido/Program.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-Program",
+      "appliesTo": "Exer_Resolvido/Program.cs",
+      "type": "launch"
+    }
+  ]
+}

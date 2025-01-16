@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_Fixação\obj\Debug\net8.0\Enumeração_Fixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_Fixação\obj\Debug\net8.0\Enumeração_Fixação.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_Fixação\obj\Debug\net8.0\Enumeração_Fixação.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_Fixação\obj\Debug\net8.0\Enumeração_Fixação.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_Fixação\bin\Debug\net8.0\Enumeração_Fixação.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_Fixação\bin\Debug\net8.0\Enumeração_Fixação.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_Fixação\bin\Debug\net8.0\Enumeração_Fixação.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_Fixação\bin\Debug\net8.0\Enumeração_Fixação.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_Fixação\bin\Debug\net8.0\Enumeração_Fixação.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_Fixação\obj\Debug\net8.0\Enumeração_Fixação.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_Fixação\obj\Debug\net8.0\refint\Enumeração_Fixação.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_Fixação\obj\Debug\net8.0\Enumeração_Fixação.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_Fixação\obj\Debug\net8.0\Enumeração_Fixação.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Enumeração_Fixação\obj\Debug\net8.0\ref\Enumeração_Fixação.dll

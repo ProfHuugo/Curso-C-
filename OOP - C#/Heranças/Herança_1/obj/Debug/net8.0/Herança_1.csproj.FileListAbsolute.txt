@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Herança_1\obj\Debug\net8.0\Herança_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Herança_1\obj\Debug\net8.0\Herança_1.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Herança_1\obj\Debug\net8.0\Herança_1.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Herança_1\obj\Debug\net8.0\Herança_1.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Herança_1\bin\Debug\net8.0\Herança_1.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Herança_1\bin\Debug\net8.0\Herança_1.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Herança_1\bin\Debug\net8.0\Herança_1.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Herança_1\bin\Debug\net8.0\Herança_1.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Herança_1\bin\Debug\net8.0\Herança_1.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Herança_1\obj\Debug\net8.0\Herança_1.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Herança_1\obj\Debug\net8.0\refint\Herança_1.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Herança_1\obj\Debug\net8.0\Herança_1.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Herança_1\obj\Debug\net8.0\Herança_1.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Heranças\Herança_1\obj\Debug\net8.0\ref\Herança_1.dll

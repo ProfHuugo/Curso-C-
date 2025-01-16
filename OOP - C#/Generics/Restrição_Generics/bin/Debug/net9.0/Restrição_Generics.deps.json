@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Restrição_Generics/1.0.0": {
+        "runtime": {
+          "Restrição_Generics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Restrição_Generics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

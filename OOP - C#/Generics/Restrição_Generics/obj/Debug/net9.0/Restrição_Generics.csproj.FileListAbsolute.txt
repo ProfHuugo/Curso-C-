@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Restrição_Generics\obj\Debug\net9.0\Restrição_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Restrição_Generics\obj\Debug\net9.0\Restrição_Generics.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Restrição_Generics\obj\Debug\net9.0\Restrição_Generics.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Restrição_Generics\obj\Debug\net9.0\Restrição_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Restrição_Generics\bin\Debug\net9.0\Restrição_Generics.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Restrição_Generics\bin\Debug\net9.0\Restrição_Generics.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Restrição_Generics\bin\Debug\net9.0\Restrição_Generics.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Restrição_Generics\bin\Debug\net9.0\Restrição_Generics.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Restrição_Generics\bin\Debug\net9.0\Restrição_Generics.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Restrição_Generics\obj\Debug\net9.0\Restrição_Generics.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Restrição_Generics\obj\Debug\net9.0\refint\Restrição_Generics.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Restrição_Generics\obj\Debug\net9.0\Restrição_Generics.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Restrição_Generics\obj\Debug\net9.0\Restrição_Generics.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Generics\Restrição_Generics\obj\Debug\net9.0\ref\Restrição_Generics.dll

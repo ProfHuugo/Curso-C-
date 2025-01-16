@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\StreamWriter\obj\Debug\net9.0\StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\StreamWriter\obj\Debug\net9.0\StreamWriter.AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\StreamWriter\obj\Debug\net9.0\StreamWriter.AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\StreamWriter\obj\Debug\net9.0\StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\StreamWriter\bin\Debug\net9.0\StreamWriter.exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\StreamWriter\bin\Debug\net9.0\StreamWriter.deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\StreamWriter\bin\Debug\net9.0\StreamWriter.runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\StreamWriter\bin\Debug\net9.0\StreamWriter.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\StreamWriter\bin\Debug\net9.0\StreamWriter.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\StreamWriter\obj\Debug\net9.0\StreamWriter.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\StreamWriter\obj\Debug\net9.0\refint\StreamWriter.dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\StreamWriter\obj\Debug\net9.0\StreamWriter.pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\StreamWriter\obj\Debug\net9.0\StreamWriter.genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\Arquivos\StreamWriter\obj\Debug\net9.0\ref\StreamWriter.dll

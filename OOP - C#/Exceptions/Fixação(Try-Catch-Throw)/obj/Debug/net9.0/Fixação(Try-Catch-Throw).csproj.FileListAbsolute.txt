@@ -1,0 +1,14 @@
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Fixação(Try-Catch-Throw)\obj\Debug\net9.0\Fixação(Try-Catch-Throw).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Fixação(Try-Catch-Throw)\obj\Debug\net9.0\Fixação(Try-Catch-Throw).AssemblyInfoInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Fixação(Try-Catch-Throw)\obj\Debug\net9.0\Fixação(Try-Catch-Throw).AssemblyInfo.cs
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Fixação(Try-Catch-Throw)\obj\Debug\net9.0\Fixação(Try-Catch-Throw).csproj.CoreCompileInputs.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Fixação(Try-Catch-Throw)\bin\Debug\net9.0\Fixação(Try-Catch-Throw).exe
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Fixação(Try-Catch-Throw)\bin\Debug\net9.0\Fixação(Try-Catch-Throw).deps.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Fixação(Try-Catch-Throw)\bin\Debug\net9.0\Fixação(Try-Catch-Throw).runtimeconfig.json
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Fixação(Try-Catch-Throw)\bin\Debug\net9.0\Fixação(Try-Catch-Throw).dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Fixação(Try-Catch-Throw)\bin\Debug\net9.0\Fixação(Try-Catch-Throw).pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Fixação(Try-Catch-Throw)\obj\Debug\net9.0\Fixação(Try-Catch-Throw).dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Fixação(Try-Catch-Throw)\obj\Debug\net9.0\refint\Fixação(Try-Catch-Throw).dll
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Fixação(Try-Catch-Throw)\obj\Debug\net9.0\Fixação(Try-Catch-Throw).pdb
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Fixação(Try-Catch-Throw)\obj\Debug\net9.0\Fixação(Try-Catch-Throw).genruntimeconfig.cache
+C:\Users\Hugo\OneDrive\Área de Trabalho\Dev\OOP - C#\exceptions\Fixação(Try-Catch-Throw)\obj\Debug\net9.0\ref\Fixação(Try-Catch-Throw).dll
